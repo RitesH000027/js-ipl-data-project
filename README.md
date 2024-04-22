@@ -40,25 +40,46 @@ Create a new repo with name js-ipl-data-project in github, before starting imple
 Make sure to follow proper Git practices
 
 Before submission, make sure that all the points in the below checklist are covered:
+
 Git commits
+
 Directory structure
+
 package.json - dependencies, devDependencies
+
 .gitignore file
+
 Proper/Intuitive Variable names
+
 Separate module for functions
 
+
 Directory structure:
+
 src/
+
 server/
+
 1-matches-per-year.js
+
 2-matches-won-per-team-per-year.js
+
 public/
+
 output
+
 matchesPerYear.json
+
 ...
+
 data/
+
 matches.csv
+
 deliveries.csv
+
 package.json
+
 package-lock.json
+
 .gitignore
